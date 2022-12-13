@@ -1,0 +1,6 @@
+W, O, R, L, D
+A, B, C, E, F
+G, H, I, J, K
+M, N, P, Q, S
+T, U, V, X, Y
+Z, ., /
